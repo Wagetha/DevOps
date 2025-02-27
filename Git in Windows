@@ -2,3 +2,14 @@ launch windows vm
 disable IR configurations under windows server management
 download git tool from git-scm
 install and use from git bash tool
+get link to download the existing file from git
+use git clone and link from existing file
+git config --global user.name Jdev1
+git config --globaluser.mail jdev@company.com
+generate key and upload to github for jdev
+eval
+ssh-add key
+to check git remote -v
+to set url
+
+
